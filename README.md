@@ -4,14 +4,16 @@
 
 ## Add resources
 
-1- Create new branch with your github username.
+1- Valid that your contribution is not repeated
 
-2- Add new resources in the correspondig category.
+2- Create new branch with your github username.
+
+3- Add new resources in the correspondig category.
 
 - If category doesn't exist, add new category with h3 title markdown format.
 - For each resource add its description.
 
-3- Send your pull request
+4- Send your pull request
 
 ---
 
