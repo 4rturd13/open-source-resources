@@ -29,4 +29,4 @@
 
 ### CSS
 
-[Flexbox Defense](http://www.flexboxdefense.com/) | Learn Flexbox by playing
+- [Flexbox Defense](http://www.flexboxdefense.com/) | Learn Flexbox by playing
