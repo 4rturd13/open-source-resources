@@ -4,16 +4,26 @@
 
 ## Add resources
 
-1- Valid that your contribution is not repeated
+**1-** Valid that your contribution is not repeated
 
-2- Create new branch with your github username.
+**2-** Create new branch with your github username.
 
-3- Add new resources in the correspondig category.
+**3-** Add new resources in the corresponding category.
 
 - If category doesn't exist, add new category with h3 title markdown format.
 - For each resource add its description.
 
-4- Send your pull request
+**4-** Send your commit with this format:
+
+- **[Add]** to add new resource
+- **[Fix]** to fix project structure or resources
+- **[Delete]** to delete resources no valid
+
+**Example:**
+
+`$ git commit -m '[Add] new resource added'`
+
+**5-** Send your pull request
 
 ---
 
