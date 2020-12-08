@@ -1,4 +1,4 @@
-[Español]('./README-Ens.md')
+[Español]('https://github.com/4rturd13/open-source-resources/blob/master/README.md')
 
 # Open Source Resources
 
